@@ -1,0 +1,55 @@
+/**{
+	background-image: url(https://www.iapb.org/wp-content/uploads/2020/03/COVID-19-Resources-Here-is-what-we-know.jpg);
+	background-repeat:no-repeat; 
+	background-size: cover;
+}*/
+
+
+.div1{
+	color: white;
+	background-image: url(https://www.oneindia.com/img/1200x80/2019/11/bengaluru-1573720034.jpg);
+/*background-color: steelblue;*/
+background-size:400px 200px;
+border: groove springgreen 10px;
+}
+
+/*s1{
+	background-image: url(https://media-exp1.licdn.com/dms/image/C561BAQHa0l95LkXVDQ/company-background_10000/0/1597652984159?e=2159024400&v=beta&t=ME-3kZxGXS8hz-AhQ4yGOlhrfT5gvdGWnLFrLuepOPI);
+	background-repeat: no-repeat;
+	background-size: 1500px 3000px;
+}*/
+.div1a
+{
+	background-color: wheat;
+/*background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAACqCAMAAADGFElyAAAAulBMVEX////+AAD6AAD3///hTUv6///+//v1AAD8//n///36//r//v/kJyb8//3mqKT48vJ6enry8vKYmJj9AAzMenzfAADs1tN4eHiAgICioqLk5OSPj4/Dw8Pc3NzLy8vm5uawsLCQkJDFxcW5ubnsAADT09P57/Lpop3s//zx//ThsZ3WMCjKlprfR1jeTE/aTE/cODjqFA3UVE++W1vHd3Pu0s/l2tXQkpTPVVTYT0nCWFT69Or89vxoaGgSieDEAAAFCElEQVR4nO3cbVvbNhiGYcfgxLZwcUyZJb8nxqVZt0A7xt7Y//9bkwz0K7cEB1qa+2oLSTB1OCvH+VA/QeCn+OTDKgwX9l2EZ+eenrOfKIVGKTRKocWBlnKAOkKpiFJYlEKjFBql0CiFRik0SqFRCo1SaJRCoxQapdAohUYpNEqhUQqNUmiUQqMUGqXQKIVGKTRKoVEKjVJolEKjFBq*/l0CiFRik0SqFRCo1SaJRCoxQapdAohUYpNEqhUQqNUmiUQqMUGqXQjlUqsc31qrUwDFdn55HtHucnGQnPQkGWJMvlMsbTW2evkfpk/gZ8h3pbQ5VFHqECQxRlUbS0zVlqcaGlsiTLrHaXBCLI0izxLBUJe6kkdV1TRkok9jsMRJr4PPxEkol1kppnjr9qmG3Tk+uVE9Xq6uyTOfKsdhfHaSaE8Hn8ZVn8Od6lJ9alwc8rl5NfeHH15Tx12OGJXlIeD79kGae//Lrfn9q2v9nfhk5Si9XXb/u97S71N3z77d7j2U+/sAZ3q4U+jCzT3+J2abs+981nQPsWl79Hz28Y3r9Ir+ePq4uVw4/83oXh5U/ZklIvN0vFlHq5/4NUSClKHbHUklIvRik0IxV5ljqccx+lkCiFRik0SqFRCo1SaJRCoxQapdAohUYpNEqhUQqNUmiUQqMUGqXQKIVGKTRKoVEKjVJolEKjFBql0CiFRik0SqFRCo1SaJRCoxQapdAohUYpNEqhUQqNUmiUQqMUmmep4LCkPF4NQikrqcO5bibwd9XaoUn5uw5ZiGVwt7hyuNjcXA7v9hM7XEn/uMfLe/1sfWXOfXcuz3y+kt9taTgOATBrSvibLKGlkj9uTu0nS9yc/nlrT6W/Qf+zfHWYZKH76+/7pb/JEvroi9PdLrKfHbL7fG0/WmKWWt3+s3MYV7LbZecn3qDmkoeH7wNw4NE9Iok+uM11WZlZQcJ2WlAciAchPE4rWZoxWELEqW2ZmarkJGUmdWW2uzPvo4QIPE5VmoeZaSlTZtM8/c1dyjqz4DN/b6YC80IlEv1i9TTpSeDF0bWjVHh2brcrnZlTl/kbf/Nc4rKq33/2ovA50ewVHeuUSvsohfYqqQM9jtzimkKjFBql0CiFRik0SqFRCo1SaJRCoxQapdAohUYpNEqhUQqNUmiUQqMUGqXQKIVGKTRKoVEKjVJolEKjFBql0CiFRik0SqFRCo1SaAcotX6jLP+f3AFK5W9SWa/tdnuYUqUsc6k/Sn3b3DQ39Gdzb76rtyjNVuam2VI/ns+blOW8gfl1BFKDarZl05VDm8uuGotqknndtkXVKv3HfMqnoarGplJapKm6TacaOZVdV47VVMteybac6vrHP/qaoetlNZXtVA+TlGrayLJSsu7VpKa6aMu17PNhK/tNqQ0n1aq2bKsir1rZjZNSk0abuvI4pLqm6+p+apph26p+lGVf69edXunbqv23Kno5bMtCLx4tpddUWzbrXFWt3roqpm6tj7xaHofUsFZToz8W/diqapBlM+mjUK+paij6bVv2+biVYzeOZk2Vm6poh64dx7ab2qEfpjHv9QH740tt6o0sZFHIXOXFUNTKLB39ocjNbf0711+uN/qhXEn9mJTFpjb3crVR+hvNlwt5DGvKnODmM5l8Oqs9nfvy50fNffn4XkA+bfe4wbz90/1jkCreJmX9LsHh6lq/Up6a1xSlgMw1o5RCohRYcnhS/wGOf/X152cXZQAAAABJRU5ErkJggg==);
+	background-size: 300px 200px;
+	border: ridge forestgreen 10px;
+	}
+.div2{
+	background-color: gold;
+
+	border: ridge red 10px;
+	}
+
+.div3{
+    background-color: salmon;
+	background-size: cover;
+	border: ridge skyblue 10px;
+	}
+.div4{
+    background-color: skyblue;
+	background-size: cover;
+	border: ridge yellowgreen 10px;
+	}
+.div5
+{
+	background-color:orange ;
+	border: outset seagreen 10px ;
+
+}
+
+.div6
+{
+	background-color: palegreen;
+	border: ridge black 10px;
+}
